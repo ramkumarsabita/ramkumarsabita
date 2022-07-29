@@ -5,3 +5,6 @@ export interface IHelloWorldProps {
   hasTeamsContext: boolean;
   userDisplayName: string;
 }
+export interface ISPLists {
+
+}
